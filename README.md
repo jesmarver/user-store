@@ -1,6 +1,15 @@
-# Rest Project + TypeScript
+# Rest Project Node.js + TypeScript
 
-Este proyecto tiene todo lo necesario para trabajar con TypeScript, Express y Rest.
+Este proyecto es un ejemplo de una API REST desarrollada con Node.js + express.
+
+Entre sus contenidos destacan:
+- Autenticación con JWT (login y registro)
+- CRUD para products y categories.
+- Patrón repositorio
+- MongoDb con Docker.
+- Middlewares de autenticación para creación de products y categories.
+- Encriptación de contraseñas
+
 
 
 ## Instalación
